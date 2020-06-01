@@ -2,4 +2,4 @@
 
 First task for Hotels.ng internship done.
 
-Next, I'll write a (lucid)[lucid.blog] post on Git.
+Next, I'll write a [lucid](https://lucid.blog) post on Git.
